@@ -1,6 +1,6 @@
 ---
 widget: title
-widget_id: Recent posts
+widget_id: Biography
 headless: true
 weight: 20
 title: Biography
